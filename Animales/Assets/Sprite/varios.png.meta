@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: d2b3ec72d7bd2414abc4a3c5e18edef0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6336405588508728370
+    second: varios_0
+  - first:
+      213: -2674994085108531214
+    second: varios_1
+  - first:
+      213: 6128510287503734391
+    second: varios_2
+  - first:
+      213: -3821735402556358899
+    second: varios_3
+  - first:
+      213: -2077794985777943909
+    second: varios_4
+  - first:
+      213: -2511561344497657822
+    second: varios_5
+  - first:
+      213: 6977921670842559947
+    second: varios_6
+  - first:
+      213: 5495858731721355545
+    second: varios_7
+  - first:
+      213: -8442214021997668591
+    second: varios_8
+  - first:
+      213: 4033633040989950213
+    second: varios_9
+  - first:
+      213: -6998329718389367360
+    second: varios_10
+  - first:
+      213: 2782524384561231361
+    second: varios_11
+  - first:
+      213: 520259177664461780
+    second: varios_12
+  - first:
+      213: -4061749521321366811
+    second: varios_13
+  - first:
+      213: -8110789878037659177
+    second: varios_14
+  - first:
+      213: -8952207394456798990
+    second: varios_15
+  - first:
+      213: 5090962053371647957
+    second: varios_16
+  - first:
+      213: 691338590876173446
+    second: varios_17
+  - first:
+      213: 4314496902573767630
+    second: varios_18
+  - first:
+      213: -8532640362714364727
+    second: varios_19
+  - first:
+      213: 6899069263867249331
+    second: varios_20
+  - first:
+      213: 457758384319893502
+    second: varios_21
+  - first:
+      213: 6766854956813223632
+    second: varios_22
+  - first:
+      213: -2077841385225737654
+    second: varios_23
+  - first:
+      213: -6244556961266799378
+    second: varios_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: varios_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cdcdf9f4f6fe750800000000000000
+      internalID: 6336405588508728370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 991
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb5d46d0380ead0800000000000000
+      internalID: -2674994085108531214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1000
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776bcf0e2a7dc0550800000000000000
+      internalID: 6128510287503734391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1002
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff71956e776fac0800000000000000
+      internalID: -3821735402556358899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_4
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 994
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2e9418703a23e0800000000000000
+      internalID: -2077794985777943909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2285d959344252dd0800000000000000
+      internalID: -2511561344497657822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 750
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd221df9ce86d060800000000000000
+      internalID: 6977921670842559947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 758
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911faffe566354c40800000000000000
+      internalID: 5495858731721355545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_8
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 761
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d105631b37da80800000000000000
+      internalID: -8442214021997668591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 753
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5011c7231e75af730800000000000000
+      internalID: 4033633040989950213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd975a2330f0ee90800000000000000
+      internalID: -6998329718389367360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 507
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10672a07f238d9620800000000000000
+      internalID: 2782524384561231361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 515
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbb3d337f4583700800000000000000
+      internalID: 520259177664461780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 518
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae6079454c1a7c0800000000000000
+      internalID: -4061749521321366811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 510
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d14bb7249fa07f80800000000000000
+      internalID: -8110789878037659177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f6c93ece53c380800000000000000
+      internalID: -8952207394456798990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 243
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d534b30bb6a640800000000000000
+      internalID: 5090962053371647957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 251
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68481b819c0289900800000000000000
+      internalID: 691338590876173446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 254
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbbe6ed21c20eb30800000000000000
+      internalID: 4314496902573767630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_19
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 246
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c400484cc8f59980800000000000000
+      internalID: -8532640362714364727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b28f9151fa6ebf50800000000000000
+      internalID: 6899069263867249331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff085243d84a5600800000000000000
+      internalID: 457758384319893502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 8
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6817b1bb2b8ed50800000000000000
+      internalID: 6766854956813223632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_23
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 11
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa30ed4460a23e0800000000000000
+      internalID: -2077841385225737654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: varios_24
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecefff5780e659a0800000000000000
+      internalID: -6244556961266799378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
